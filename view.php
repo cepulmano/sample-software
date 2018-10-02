@@ -10,8 +10,8 @@
 <body>
   
     <div class="container col-md-offset-3 col-md-6">
-      <h1>Title</h1>
-      <p>Description</p> 
+
+      <br>
       <a href="save.php"><input type="button" class="btn btn-default" value="Back"></a>
     </div>
 
